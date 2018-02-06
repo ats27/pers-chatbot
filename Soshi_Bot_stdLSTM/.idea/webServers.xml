@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b6bd16d-82cc-445e-943a-be9ef181a13d" name="mindgarage" url="http://mindgarage09.informatik.uni-kl.de">
+        <fileTransfer host="mindgarage09.informatik.uni-kl.de" port="22" rootFolder="/home/z_senshi/venvs/VDL2/remote" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
